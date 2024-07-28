@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 4b715afdf03e5c54ab7dc61be1556338
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: closet_texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175a3f2d993f734eaf2748700c16cff
+      internalID: -24643446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26a960e75cad6429060b64a007776c
+      internalID: 1803969636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104d4826cb3ac045864357e6768c7c3
+      internalID: -971278900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce7b00e3ed88148957528cc3dc3b8b
+      internalID: -43451805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50764773252f431428e3fca14fc36bd5
+      internalID: 345539205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b0bccf6c761944bf9ca8e5fbf27b3
+      internalID: 566154145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5acb04984a524dad63d4591860658
+      internalID: -185154696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d6674ea3d97443ac2a05ea02fa5d0
+      internalID: -1395856122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517553d2abc68e4cb6c432c08640582
+      internalID: 2123220310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b8d94352b2a0840ad6fe4fb915d230
+      internalID: 1277405759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618d7068c2b65d448cb11db8b86e23f
+      internalID: 41412622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acc1beb40e89c4bab38d86b0fbfa85
+      internalID: 44528899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dad4a706a141848ad0545f5fd8c34c
+      internalID: 1473304694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77938a1c6c301843a51fb51417b1514
+      internalID: 1595507710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_14
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f5c923a159a24ea844a89acaca35a
+      internalID: -1509679662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_15
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5023e6fc6e2668348b3e17aa1fb69e5e
+      internalID: -930269802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_16
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6663f55ff37f45b232362d9e6cf88
+      internalID: 954339833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_17
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879daca3f3566f48b3e18efd29b5064
+      internalID: 49896487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_18
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae2de7c2f15364596678d62c451a70
+      internalID: 650359498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_19
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5490346da4abd547b06002d6c5cc7e8
+      internalID: 452445649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_20
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c9d249dc431254caf003c23807af09
+      internalID: 1292105778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_21
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0949d0c66b0c1444b53d223eb98d3c6
+      internalID: 1271514910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_22
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c23f2fc656c247b19e970f2cca7a1
+      internalID: -1815437746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_23
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9182baaf17d704fa9ca8d6eb7b7e31
+      internalID: -1597402750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_24
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d77c2e294a684c8336753abbbe8df
+      internalID: -1517015108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_25
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509de209819d5345b7e78c2344d1bf9
+      internalID: -1492653827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_26
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd29175c3a1442f43a40c4e06b5d1186
+      internalID: 1717817793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_27
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b454c73a9a7f4cad2a837bd9a3d40
+      internalID: -1238189921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: closet_texture_28
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 0
+        width: 133.10345
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e8ab38229bf7a4c999114c4cae1c38
+      internalID: -1998490065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      closet_texture_0: -24643446
+      closet_texture_1: 1803969636
+      closet_texture_10: 41412622
+      closet_texture_11: 44528899
+      closet_texture_12: 1473304694
+      closet_texture_13: 1595507710
+      closet_texture_14: -1509679662
+      closet_texture_15: -930269802
+      closet_texture_16: 954339833
+      closet_texture_17: 49896487
+      closet_texture_18: 650359498
+      closet_texture_19: 452445649
+      closet_texture_2: -971278900
+      closet_texture_20: 1292105778
+      closet_texture_21: 1271514910
+      closet_texture_22: -1815437746
+      closet_texture_23: -1597402750
+      closet_texture_24: -1517015108
+      closet_texture_25: -1492653827
+      closet_texture_26: 1717817793
+      closet_texture_27: -1238189921
+      closet_texture_28: -1998490065
+      closet_texture_3: -43451805
+      closet_texture_4: 345539205
+      closet_texture_5: 566154145
+      closet_texture_6: -185154696
+      closet_texture_7: -1395856122
+      closet_texture_8: 2123220310
+      closet_texture_9: 1277405759
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
